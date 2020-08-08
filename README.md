@@ -14,3 +14,4 @@ ___
 
 ## 개발 인프라
 - 로또 판매점 정보 세팅
+![LottoCrawlingInfra](./img/LottoCrawlingInfra.jpg)
