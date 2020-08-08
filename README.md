@@ -1,4 +1,4 @@
-## [LottoWinningAreaBot](#LottoWinningAreaBot)
+## LottoWinningAreaBot
 
 **텔레그램을 통해 "지역" 입력 -> 해당 지역의 1등, 2등을 합산하여 최상의 5군데의 판매점 정보를 제공하는 사이드 프로젝트**
 ___
