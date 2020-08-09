@@ -6,10 +6,15 @@ ___
 ## 개발환경
 - Cloud Service : AWS Lambda
 - DataBase : AWS RDS(MariaDB) 
-- Language : Python
+- Language : Python3.6 또는 3.7
 - IDE : Pycharm
 - library : botcore.vendored, BeautifulSoup, pymysql
+___
 
+## 사전 작업
+- pip install [library] 또는 pycharm -> Settings -> Project Interpreter을 통해 library 설치
+- AWS Lambda에서 Python library사용을 위한 layer 구성
+- Telegram Bot 및 webhook 설정
 ___
 
 ## 개발 인프라
