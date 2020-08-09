@@ -14,8 +14,11 @@ ___
 
 ## 개발 인프라
 - **로또 판매점 정보 가져오기 내역 구성**
+
 ![LottoCrawlingSetInfra](./img/LottoCrawlingSetInfra.JPG)
 
 ___
 
 - **로또 판매점 정보 주고받기 내역 구성**
+
+![LottoCrawlingGetInfra](./img/LottoCrawlingGetInfra.JPG)
