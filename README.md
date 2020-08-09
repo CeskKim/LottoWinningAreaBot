@@ -35,3 +35,8 @@ ___
 - 로또 지역이 존재하지 않은 경우 즉 미 존재인 경우에는 메시지 표시
 
 ![LottoAreaBotProc](./img/LottoAreaBotProc.JPG)
+
+___
+
+## 추후 예정
+-  google maps api 추가를 통해서 해당 지역의 지도또한 표시 예정
